@@ -12,7 +12,9 @@
 
 📊 **[Open Tableau Public interactive Dashboard](https://public.tableau.com/views/MaritimeDataQualityAnalysisSanPedroBayAIS/MaritimeDataQualityAnalysis)**
 
-🧪 **[View R Analysis](https://01a10ca6-0bc9-45e2-03c0-7f001cd07dc1.share.connect.posit.cloud/)**
+🧪 **[View R Analysis]
+(https://01a10ca6-0bc9-45e2-03c0-7f001cd07dc1.share.connect.posit.cloud/)**
+
 ---
 
 ## Business Objective
@@ -514,7 +516,7 @@ Data Analytics | Operations | Aviation & Maritime Data
 ### Project Visualizations
 
 - 📊 **[Tableau Public Dashboard](https://public.tableau.com/views/MaritimeDataQualityAnalysisSanPedroBayAIS/MaritimeDataQualityAnalysis)**
-- 🧪 **[R Analysis](https://01a10ca6-0bc9-45e2-03c0-7f001cd07dc1.share.connect.posit.cloud/)**)
+- 🧪 **[R Analysis](https://01a10ca6-0bc9-45e2-03c0-7f001cd07dc1.share.connect.posit.cloud/)**
 
 ---
 
