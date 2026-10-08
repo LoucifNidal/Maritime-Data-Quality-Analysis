@@ -8,12 +8,11 @@
 
 ![Maritime Data Quality Analysis Dashboard](assets/images/tableau_dashboard.png)
 
-### Interactive Dashboards
+## Project Visualizations
 
-📊 **[Open Tableau Public Dashboard](https://public.tableau.com/views/MaritimeDataQualityAnalysisSanPedroBayAIS/MaritimeDataQualityAnalysis)**
+📊 **[Open Tableau Public interactive Dashboard](https://public.tableau.com/views/MaritimeDataQualityAnalysisSanPedroBayAIS/MaritimeDataQualityAnalysis)**
 
-🧪 **[Open Interactive R Shiny Dashboard](https://01a10ca6-0bc9-45e2-03c0-7f001cd07dc1.share.connect.posit.cloud/)**
-
+🧪 **[View R Analysis](https://01a10ca6-0bc9-45e2-03c0-7f001cd07dc1.share.connect.posit.cloud/)**
 ---
 
 ## Business Objective
@@ -300,16 +299,11 @@ The R analysis contains four supporting visualizations covering:
 - Longest observed vessel gaps.
 - Potential validity flags.
 
-These visualizations complement the primary Tableau dashboard rather than replacing it.
+# R Analysis Application
 
-![R Analysis Results](assets/images/r_analysis_results_collage.png)
+The supporting R implementation is also available through a published Shiny application:
 
-### Interactive R Analysis
-
-The supporting R implementation is also available as an interactive Shiny application:
-
-**[Open the Interactive R Analysis](https://01a10ca6-0bc9-45e2-03c0-7f001cd07dc1.share.connect.posit.cloud/)**
-
+**[View the R Analysis](https://01a10ca6-0bc9-45e2-03c0-7f001cd07dc1.share.connect.posit.cloud/)**
 ---
 
 ---
@@ -477,21 +471,6 @@ These outputs allow the visualization layer to work with compact analytical data
 
 ---
 
-# Interactive Visualizations
-
-### Tableau Public
-
-**[Open the Maritime Data Quality Tableau Dashboard](https://public.tableau.com/views/MaritimeDataQualityAnalysisSanPedroBayAIS/MaritimeDataQualityAnalysis)**
-
-The Tableau dashboard provides the primary interactive view of the project's findings.
-
-### R / Shiny
-
-**[Open the Interactive R Analysis](https://01a10ca6-0bc9-45e2-03c0-7f001cd07dc1.share.connect.posit.cloud/)**
-
-The R implementation provides an additional interactive presentation of the analytical outputs.
-
----
 
 # Future Improvements
 
@@ -532,14 +511,10 @@ Data Analytics | Operations | Aviation & Maritime Data
 - **Portfolio:** [loucifnidal.github.io](https://loucifnidal.github.io/)
 - **Kaggle:** [Nidal Loucif](https://www.kaggle.com/nidalloucif)
 
----
+### Project Visualizations
 
-## Project Links
-
-- 📊 [Tableau Public Dashboard](https://public.tableau.com/views/MaritimeDataQualityAnalysisSanPedroBayAIS/MaritimeDataQualityAnalysis)
-- 🧪 [Interactive R Analysis](https://01a10ca6-0bc9-45e2-03c0-7f001cd07dc1.share.connect.posit.cloud/)
-- 💻 [GitHub Repository](https://github.com/LoucifNidal/Maritime-Data-Quality-Analysis)
-- 🌐 [Portfolio](https://loucifnidal.github.io/)
+- 📊 **[Tableau Public Dashboard](https://public.tableau.com/views/MaritimeDataQualityAnalysisSanPedroBayAIS/MaritimeDataQualityAnalysis)**
+- 🧪 **[R Analysis](https://01a10ca6-0bc9-45e2-03c0-7f001cd07dc1.share.connect.posit.cloud/)**)
 
 ---
 
